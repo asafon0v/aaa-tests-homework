@@ -1,0 +1,14 @@
+(base) C:\Users\Anton\PycharmProjects\Avito_Homeworks\test_issue_2>pytest -v
+===================================================================== test session starts ======================================================================
+platform win32 -- Python 3.9.12, pytest-7.2.0, pluggy-1.0.0 -- C:\Users\Anton\anaconda3\python.exe
+cachedir: .pytest_cache
+rootdir: C:\Users\Anton\PycharmProjects\Avito_Homeworks\test_issue_2
+plugins: anyio-3.5.0
+collected 4 items
+
+test_issue_2.py::test_decode_correct_string[SLIM/SHADY-... .-.. .. -- -..-. ... .... .- -.. -.--] PASSED                                                  [ 25%]
+test_issue_2.py::test_decode_correct_string[WEEKEND777-.-- . . -.- . -. -..   --... --... --... ] PASSED                                                  [ 50%]
+test_issue_2.py::test_decode_correct_string[1-.----] PASSED                                                                                               [ 75%]
+test_issue_2.py::test_decode_correct_string[?MIKHAIL?/-..--.. -- .. -.- .... .- .. .-.. ..--..   -..-.] PASSED                                            [100%]
+
+====================================================================== 4 passed in 0.05s =======================================================================
