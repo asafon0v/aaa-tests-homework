@@ -1,0 +1,6 @@
+(base) C:\Users\Anton\PycharmProjects\Avito_Homeworks\test_issue_3>python test_issue_3.py
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.001s
+
+OK
