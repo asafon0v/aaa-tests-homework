@@ -1,0 +1,5 @@
+[
+  "test_issue_5.py::test_current_year_ymd_format",
+  "test_issue_5.py::test_prev_year_dmy_format",
+  "test_issue_5.py::test_prev_year_slash_format"
+]
